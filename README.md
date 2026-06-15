@@ -54,4 +54,3 @@
 
 <br>
 
-<p align="center">Made with ❤️ — open source and free to learn from</p>
