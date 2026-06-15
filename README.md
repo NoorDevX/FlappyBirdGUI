@@ -1,7 +1,7 @@
 <h1 align="center">🐦 Flappy Bird — Java Edition</h1>
 
 <p align="center">
-  A Flappy Bird clone built as a Java GUI project — featuring a main menu, difficulty levels, bird color customization, and music.
+  A Flappy Bird clone built as a Java GUI project, featuring a main menu, difficulty levels, bird color customization, and music.
 </p>
 
 <p align="center">
